@@ -1,6 +1,10 @@
 MIT License
 
+<<<<<<< HEAD
 Copyright (c) 2026 Mohsin Khadim
+=======
+Copyright (c) 2026 Hackers Club
+>>>>>>> 6268305 (Add CONTRIBUTING.md, MIT License, and README badges)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
