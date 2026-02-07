@@ -13,7 +13,7 @@ Click the **Fork** button at the top right of the repo page to create your own c
 ### 2. Clone Your Fork
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/openclaw-setup.git
+git clone https://github.com/mohsinkhadim59/openclaw-setup.git
 cd openclaw-setup
 ```
 
